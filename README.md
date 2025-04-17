@@ -3,10 +3,12 @@ aws-ai-landing-zone
 
 Reference architecture for https://www.linkedin.com/pulse/ai-aws-landing-zone-secure-architecture-blueprint-era-phillip-bailey-foije/
 
-<img src="AILanndingZone.png" alt="Description" width="1000" height="664">
-
 ## Overview
 The AWS AI Landing Zone is a well-architected, scalable framework for organizing and managing AI/ML workloads on AWS. It provides a structured approach to set up AWS accounts, security controls, networking, and AI/ML services across development, testing, and production environments.
+
+
+<img src="AILanndingZone.png" alt="Description" width="1000" height="664">
+
 
 ## Purpose
 This landing zone helps organizations:
